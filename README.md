@@ -6,7 +6,7 @@ In this project, investigated restaurant food safety scores for restaurants in S
 
 As we clean and explore these data, main objective is to:
 
-- Reading simple csv files and using Pandas
-- Working with data at different levels of granularity
-- Identifying the type of data collected, missing values, anomalies, etc.
-- Exploring characteristics and distributions of individual variables
+- Read simple csv files and using Pandas
+- Work with data at different levels of granularity
+- Identify the type of data collected, missing values, anomalies, etc.
+- Explore characteristics and distributions of individual variables
